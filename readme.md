@@ -31,7 +31,7 @@ This system utilizes **Support Vector Machines (SVM), Linear Regression, Logisti
 ## 📌 Installation & Setup
 1. **Clone the Repository**  
    ```sh
-   git clone https://github.com/yourusername/AI-Medical-Diagnosis.git
+   git clone https://github.com/AnirbanGhosh2503/AI-based-Medical-Diagnosis-System.git
    cd AI-Medical-Diagnosis
    ```
 
